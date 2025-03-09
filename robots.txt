@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://waktu-berita.github.io/top-time/.xml
